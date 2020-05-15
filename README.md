@@ -1,0 +1,1 @@
+# Creating-a-ndarray-by-using-np.arange-120-In-3-import-numpy-as-np-arr-np.arange-120-arr-Out-3-
